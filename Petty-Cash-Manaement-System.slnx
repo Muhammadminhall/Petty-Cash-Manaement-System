@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PettyCash.Core/PettyCash.Core.csproj" />
+  <Project Path="PettyCash.WindowsApp/PettyCash.WindowsApp.csproj" />
+</Solution>
