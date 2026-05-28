@@ -9,8 +9,11 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Contracts\" />
-    <Folder Include="Utilities\" />
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.1" />
   </ItemGroup>
 
 </Project>
